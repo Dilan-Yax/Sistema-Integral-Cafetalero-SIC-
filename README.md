@@ -1,6 +1,6 @@
 
 
-#  Sistema de Gestión de Compras de Café (AVL Tree)
+#  Sistema-Integral-Cafetalero-SIC-
 
 Este proyecto es una aplicación de escritorio desarrollada en **C++** que utiliza la librería gráfica **SFML**. Su objetivo principal es gestionar registros de compras de café de manera eficiente, utilizando un **Árbol AVL** para organizar la información.
 
